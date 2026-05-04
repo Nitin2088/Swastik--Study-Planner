@@ -1,0 +1,6 @@
+{
+  "name": "Student Planner",
+  "description": "A clean and minimal task organizer for students with daily planning, task summaries, and persistent storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
